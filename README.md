@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nix 👋
 
 I'm a 16-year-old aspiring developer with a passion for scripting, automation, and data science. I enjoy building efficient solutions and automating tasks to make things easier and faster. Here's a bit more about me:
 
@@ -17,12 +17,12 @@ I'm a 16-year-old aspiring developer with a passion for scripting, automation, a
 - Explore databases and improve my skills in handling large-scale data with Apache Cassandra
 
 ## 📈 GitHub Stats:
-![Your Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=GeneralK0&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 📫 Get in Touch:
 Feel free to reach out to me if you'd like to collaborate or chat about anything tech-related!  
-- Email: [your-email@example.com]  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- Discord: yourDiscord#1234
+- Email: [ahmed.mohamedko728@gmail.com]  
+- LinkedIn: [My profile!](https://www.linkedin.com/in/ahmed-mohamed-4a7766333/)  
+- Discord: Nix.py
 
 Thanks for visiting my profile! 😄
