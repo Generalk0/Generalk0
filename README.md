@@ -17,7 +17,7 @@ I'm a 16-year-old aspiring developer with a passion for scripting, automation, a
 - Explore databases and improve my skills in handling large-scale data with Apache Cassandra
 
 ## 📈 GitHub Stats:
-![Your Stats](https://github-readme-stats.vercel.app/api?username=GeneralK0&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=PhoenixBTFW&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 📫 Get in Touch:
 Feel free to reach out to me if you'd like to collaborate or chat about anything tech-related!  
